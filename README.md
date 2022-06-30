@@ -25,7 +25,6 @@ python -m venv venv
 ``` bash
 venv\Scripts\activate
 ```
-> ![venv_activate](https://user-images.githubusercontent.com/75139331/174867662-3e41c1ec-aaf1-4f8e-8ba5-6df1cd6d1c39.png)
 3. Установим зависимости
 ``` bash
 pip install -r requirements.txt
